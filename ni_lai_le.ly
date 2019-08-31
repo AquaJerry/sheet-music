@@ -94,7 +94,7 @@ upper = \relative c' {
   <g, e'>2 <c, e>  % 17
   \grace{b16 d} g4 <d a> <b d f>2  % 18
   \grace{e16 g} e'4 ~ e16 g c d e2  % 19
-  \grace{d,,16 fis} d'4 ~ d16 fis b cis d8. b16 ~ b8 g  % 20 
+  \grace{d,,16 fis} d'4 ~ d16 fis b cis d8. b16 ~ b8 g  % 20
   \grace{c,16 e} a4 <c,, e>8 g' <c, fis> a' d c  % 21
   <d, b'>4. a'8 <d, b'>8. <g d'>16 \tuplet 3/2 {<b g'>8 <d b'> <g d'>}  % 22
   <g e'>4 r16 g16 c d e8. d16 ~ d8 b  % 23
@@ -151,7 +151,7 @@ lower_prelude = \relative c' {
 lower = \relative c {
   g8 d' g b <d e>2  % 11
   c,8 a' c e a2  % 12
-  a,,8 e' a c <a fis d>2  % 13 
+  a,,8 e' a c <a fis d>2  % 13
   g,8 d' a' b <c, c,>4 <d d,>  % 14
   g,8 d' g b <d e>2  % 15
   b,8 dis <fis a>4 <g c,>2  % 16
@@ -186,7 +186,7 @@ lower = \relative c {
 lower_bridge = \relative c {
   d8 a' ~ a4 d,,2  % 43
   g8 d' a' d, <g b>4 r4  % 44
-  c,8 g' c d e2  % 45 
+  c,8 g' c d e2  % 45
   b,8 fis' b cis d4 <f g>  % 46
   c,8 g' c b, a e' a c,,  % 47
   d d' a' c d2  % 48
